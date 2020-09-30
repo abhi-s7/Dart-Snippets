@@ -1,0 +1,32 @@
+DART
+
+- Open Source 
+- Developed by Google
+- 2011
+- General Purpose Language Dart + (Node.js, Flutter, Angular)
+- Statically typed language
+
+This means it's a Strict language. 
+i.e. we cannot change the datatype of a variable once we have defined it
+e.g. var name = 'Abhishek'
+Now if I want to change name = 1000; // it is not possible 
+
+while the above is possible in JS because JavaScript is Dynamically Typed language
+
+ - var a = 100; //type inference
+
+This means 'a' has become an integer behind the scene because the value feeded to it is a integer
+It automatically detect the type based on the value.
+
+
+- DART does not have Compilation Phase it only has Runtime Phase
+- It's an Object Oriented Language
+- Syntax inspired from c++, Java, JavaScript
+- Everything in dart is an Object
+
+- Clould as well on local environment
+- Functional Programming
+- Async Programming //server
+- Multi paradigm - OOPS + Functional Programming + Async Programming
+- It can mimic the dynamic type using a special keyword called 'dynamic'
+
