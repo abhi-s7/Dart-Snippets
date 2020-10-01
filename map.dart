@@ -14,14 +14,3 @@ void main(){
   
 
 }
-
-
-/*
-
-Sir earlier you told that Adding dart with Angular will result a website and 
-for backend use Dart with Node.JS but Angular and Node.js are already 
-the technologies used for websites and backend
-So how dart will make the difference
-
-
-*/
