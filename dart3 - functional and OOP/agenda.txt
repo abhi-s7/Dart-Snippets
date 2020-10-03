@@ -1,0 +1,47 @@
+::Basic Level Dart
+
+Dart Types(Basic and Acvance), Variable
+1. final vs const
+2. operators
+    a. Null aware
+    b. Null aware and assignment
+    c. is
+    d. is!
+    e. in
+    f. ~/
+    g. Cascade Notation - ..
+        Chain of methods
+3. if-else, ternary operator, switch case, continue with label
+    String in case
+4. Loops, Labeled Loops
+5. Loop vs Iterator (for in, forEach is a function, and it is wrapper on top of iterator)
+
+Dart is OOP +  Functinal Programming + Async Programming
+
+::Functinal Programming in Dart
+1. Types
+    a. Named Functions - As they have name thus they can be called N times
+    Java Style (Statically Type)
+    Javascript Style (Dynamically Type)
+
+    b. Anonymous Functions - No name function
+
+    Since they have no name therefore they cannot be called more than 1 time unless you declare it any Variable
+    They are also nested function
+    therfore useful in forEach
+
+    c. Fat Arrow - Single Line code Func
+                - It can also be assigned to a Variable
+
+2. Parameters
+    a. Optional Positional Parameters
+    b. Optional Named Parameters
+    c. Default Parameter - Either with optional positional or named positional
+
+3. Main Args (N) -> command line arguments
+
+Functinal Programming
+a. Nested Functions - global functins and loval function, wrap function
+b. CallBack - passing a logic as an argument (forEach, fileHandling)
+c. Closure - A.K.A Lexical Closure
+d. Lexical Scope - scope of variable in case of nested fn
