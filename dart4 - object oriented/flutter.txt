@@ -1,0 +1,26 @@
+1. Cross platform Mobile apps
+2. Desktop apps - beta
+3. Flutter SDK
+    a. Dart SDK
+    b. Flutter API
+        Disign + widgets + utilities
+    c. Tools
+
+Whatever starts with . it is low level code
+Contains native code
+lib Contains the dart file
+test contains testing code for unit testing
+pubspec.yaml - contains meta info of project
+    - name
+    - version
+    - library
+
+YAML - Yaml ain't markup language
+
+main.dart
+
+start with void main()
+runApp() - runs the apps
+2 type of themes - 1. Material theme 2. Cupertino themes
+runApp() requires an argument
+MaterialApp();
